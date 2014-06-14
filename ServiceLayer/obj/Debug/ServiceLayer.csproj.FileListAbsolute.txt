@@ -1,0 +1,39 @@
+C:\Users\Илья\Documents\Visual Studio 2012\Projects\DanceProject\ServiceLayer\bin\Debug\ServiceLayer.dll
+C:\Users\Илья\Documents\Visual Studio 2012\Projects\DanceProject\ServiceLayer\bin\Debug\ServiceLayer.pdb
+C:\Users\Илья\Documents\Visual Studio 2012\Projects\DanceProject\ServiceLayer\bin\Debug\DomainLayer.dll
+C:\Users\Илья\Documents\Visual Studio 2012\Projects\DanceProject\ServiceLayer\bin\Debug\MappingLayer.dll
+C:\Users\Илья\Documents\Visual Studio 2012\Projects\DanceProject\ServiceLayer\bin\Debug\Repository.dll
+C:\Users\Илья\Documents\Visual Studio 2012\Projects\DanceProject\ServiceLayer\bin\Debug\EntityFramework.dll
+C:\Users\Илья\Documents\Visual Studio 2012\Projects\DanceProject\ServiceLayer\bin\Debug\DomainLayer.pdb
+C:\Users\Илья\Documents\Visual Studio 2012\Projects\DanceProject\ServiceLayer\bin\Debug\MappingLayer.pdb
+C:\Users\Илья\Documents\Visual Studio 2012\Projects\DanceProject\ServiceLayer\bin\Debug\Repository.pdb
+C:\Users\Илья\Documents\Visual Studio 2012\Projects\DanceProject\ServiceLayer\bin\Debug\EntityFramework.xml
+C:\Users\Илья\Documents\Visual Studio 2012\Projects\DanceProject\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Documents\Visual Studio 2012\Projects\DanceProject\ServiceLayer\obj\Debug\ServiceLayer.dll
+C:\Users\Илья\Documents\Visual Studio 2012\Projects\DanceProject\ServiceLayer\obj\Debug\ServiceLayer.pdb
+C:\Users\Илья\Dropbox\IllyaTrainee\DanceProject\ServiceLayer\bin\Debug\ServiceLayer.dll
+C:\Users\Илья\Dropbox\IllyaTrainee\DanceProject\ServiceLayer\bin\Debug\ServiceLayer.pdb
+C:\Users\Илья\Dropbox\IllyaTrainee\DanceProject\ServiceLayer\bin\Debug\DomainLayer.dll
+C:\Users\Илья\Dropbox\IllyaTrainee\DanceProject\ServiceLayer\bin\Debug\MappingLayer.dll
+C:\Users\Илья\Dropbox\IllyaTrainee\DanceProject\ServiceLayer\bin\Debug\Repository.dll
+C:\Users\Илья\Dropbox\IllyaTrainee\DanceProject\ServiceLayer\bin\Debug\EntityFramework.dll
+C:\Users\Илья\Dropbox\IllyaTrainee\DanceProject\ServiceLayer\bin\Debug\DomainLayer.pdb
+C:\Users\Илья\Dropbox\IllyaTrainee\DanceProject\ServiceLayer\bin\Debug\MappingLayer.pdb
+C:\Users\Илья\Dropbox\IllyaTrainee\DanceProject\ServiceLayer\bin\Debug\Repository.pdb
+C:\Users\Илья\Dropbox\IllyaTrainee\DanceProject\ServiceLayer\bin\Debug\EntityFramework.xml
+C:\Users\Илья\Dropbox\IllyaTrainee\DanceProject\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Dropbox\IllyaTrainee\DanceProject\ServiceLayer\obj\Debug\ServiceLayer.dll
+C:\Users\Илья\Dropbox\IllyaTrainee\DanceProject\ServiceLayer\obj\Debug\ServiceLayer.pdb
+C:\Users\Illya\Dropbox\IllyaTrainee\DanceProject\ServiceLayer\bin\Debug\ServiceLayer.dll
+C:\Users\Illya\Dropbox\IllyaTrainee\DanceProject\ServiceLayer\bin\Debug\ServiceLayer.pdb
+C:\Users\Illya\Dropbox\IllyaTrainee\DanceProject\ServiceLayer\bin\Debug\DomainLayer.dll
+C:\Users\Illya\Dropbox\IllyaTrainee\DanceProject\ServiceLayer\bin\Debug\MappingLayer.dll
+C:\Users\Illya\Dropbox\IllyaTrainee\DanceProject\ServiceLayer\bin\Debug\Repository.dll
+C:\Users\Illya\Dropbox\IllyaTrainee\DanceProject\ServiceLayer\bin\Debug\EntityFramework.dll
+C:\Users\Illya\Dropbox\IllyaTrainee\DanceProject\ServiceLayer\bin\Debug\DomainLayer.pdb
+C:\Users\Illya\Dropbox\IllyaTrainee\DanceProject\ServiceLayer\bin\Debug\MappingLayer.pdb
+C:\Users\Illya\Dropbox\IllyaTrainee\DanceProject\ServiceLayer\bin\Debug\Repository.pdb
+C:\Users\Illya\Dropbox\IllyaTrainee\DanceProject\ServiceLayer\bin\Debug\EntityFramework.xml
+C:\Users\Illya\Dropbox\IllyaTrainee\DanceProject\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+C:\Users\Illya\Dropbox\IllyaTrainee\DanceProject\ServiceLayer\obj\Debug\ServiceLayer.dll
+C:\Users\Illya\Dropbox\IllyaTrainee\DanceProject\ServiceLayer\obj\Debug\ServiceLayer.pdb

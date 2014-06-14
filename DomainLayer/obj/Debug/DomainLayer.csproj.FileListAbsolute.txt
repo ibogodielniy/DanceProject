@@ -1,0 +1,30 @@
+C:\Users\Илья\Documents\Visual Studio 2012\Projects\DanceProject\DomainLayer\bin\Debug\DomainLayer.dll.config
+C:\Users\Илья\Documents\Visual Studio 2012\Projects\DanceProject\DomainLayer\bin\Debug\DomainLayer.dll
+C:\Users\Илья\Documents\Visual Studio 2012\Projects\DanceProject\DomainLayer\bin\Debug\DomainLayer.pdb
+C:\Users\Илья\Documents\Visual Studio 2012\Projects\DanceProject\DomainLayer\bin\Debug\EntityFramework.dll
+C:\Users\Илья\Documents\Visual Studio 2012\Projects\DanceProject\DomainLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Илья\Documents\Visual Studio 2012\Projects\DanceProject\DomainLayer\bin\Debug\EntityFramework.xml
+C:\Users\Илья\Documents\Visual Studio 2012\Projects\DanceProject\DomainLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Илья\Documents\Visual Studio 2012\Projects\DanceProject\DomainLayer\obj\Debug\DomainLayer.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Documents\Visual Studio 2012\Projects\DanceProject\DomainLayer\obj\Debug\DomainLayer.dll
+C:\Users\Илья\Documents\Visual Studio 2012\Projects\DanceProject\DomainLayer\obj\Debug\DomainLayer.pdb
+C:\Users\Илья\Dropbox\IllyaTrainee\DanceProject\DomainLayer\bin\Debug\DomainLayer.dll.config
+C:\Users\Илья\Dropbox\IllyaTrainee\DanceProject\DomainLayer\bin\Debug\DomainLayer.dll
+C:\Users\Илья\Dropbox\IllyaTrainee\DanceProject\DomainLayer\bin\Debug\DomainLayer.pdb
+C:\Users\Илья\Dropbox\IllyaTrainee\DanceProject\DomainLayer\bin\Debug\EntityFramework.dll
+C:\Users\Илья\Dropbox\IllyaTrainee\DanceProject\DomainLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Илья\Dropbox\IllyaTrainee\DanceProject\DomainLayer\bin\Debug\EntityFramework.xml
+C:\Users\Илья\Dropbox\IllyaTrainee\DanceProject\DomainLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Илья\Dropbox\IllyaTrainee\DanceProject\DomainLayer\obj\Debug\DomainLayer.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Dropbox\IllyaTrainee\DanceProject\DomainLayer\obj\Debug\DomainLayer.dll
+C:\Users\Илья\Dropbox\IllyaTrainee\DanceProject\DomainLayer\obj\Debug\DomainLayer.pdb
+C:\Users\Illya\Dropbox\IllyaTrainee\DanceProject\DomainLayer\bin\Debug\DomainLayer.dll.config
+C:\Users\Illya\Dropbox\IllyaTrainee\DanceProject\DomainLayer\bin\Debug\DomainLayer.dll
+C:\Users\Illya\Dropbox\IllyaTrainee\DanceProject\DomainLayer\bin\Debug\DomainLayer.pdb
+C:\Users\Illya\Dropbox\IllyaTrainee\DanceProject\DomainLayer\bin\Debug\EntityFramework.dll
+C:\Users\Illya\Dropbox\IllyaTrainee\DanceProject\DomainLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Illya\Dropbox\IllyaTrainee\DanceProject\DomainLayer\bin\Debug\EntityFramework.xml
+C:\Users\Illya\Dropbox\IllyaTrainee\DanceProject\DomainLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Illya\Dropbox\IllyaTrainee\DanceProject\DomainLayer\obj\Debug\DomainLayer.csprojResolveAssemblyReference.cache
+C:\Users\Illya\Dropbox\IllyaTrainee\DanceProject\DomainLayer\obj\Debug\DomainLayer.dll
+C:\Users\Illya\Dropbox\IllyaTrainee\DanceProject\DomainLayer\obj\Debug\DomainLayer.pdb
