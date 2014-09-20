@@ -1,0 +1,157 @@
+﻿@model IEnumerable<DomainLayer.Profile>
+
+<link href="@Url.Content("~/Content/dist/css/bootstrap.min.css")" rel="stylesheet" type="text/css" />
+<div class="row" style="background-color: #043058; color: #ABE7F3; text-align: center">
+    @{
+        ViewBag.Title = "Profiles";
+    }
+    <h1>@ViewBag.Title</h1>
+</div>
+
+
+<div class="profile" style="height: 400px; overflow: scroll">
+    @foreach (var p in Model)
+    {
+        string color = "#7AC4F1";
+
+        if (p.Sex == "Female")
+        {
+            color = "#FFF3AB";
+        }
+
+        <div class="row" style="background-color: #ABE7F3">
+            <div class="col-sm-8 col-md-offset-2">
+                <div class="row" style="background-color: @color; padding: 10px; margin: 10px">
+                    <div class="col-sm-3">
+                            <img class="img-rounded" src="http://l.rgbimg.com/cache1nyEso/users/k/ka/katagaci/600/meSMq0Q.jpg" style="height: 200px; width: 200px" />
+                    </div>
+                    <div class="col-sm-2">
+                        <div>
+                            <p>Name</p>
+                        </div>
+                        <div>
+                            <p>City</p>
+                        </div>
+                        <div>
+                            <p>Email</p>
+                        </div>
+                        <div>
+                            <p>Level</p>
+                        </div>
+                        <div>
+                            <p>Phone</p>
+                        </div>
+                        <div>
+                            <p>Programme</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-2">
+                        <div>
+                            <p>@p.Name</p>
+                        </div>
+                        <div>
+                            <p>@p.City</p>
+                        </div>
+                        <div>
+                            <p>@p.Email</p>
+                        </div>
+                        <div>
+                            <p>@p.Level</p>
+                        </div>
+                        <div>
+                            <p>@p.Phone</p>
+                        </div>
+                        <div>
+                            <p>@p.Programme</p>
+                        </div>
+                        <div>
+                            <i class="icon-search icon-white"></i>
+                            @Html.ActionLink("Dlete", "DeleteProfile", new { profile = p.Id })
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+<h1>Add Profile</h1>
+
+<div class="col-sm-8 col-md-offset-2">
+    <div class="row">
+        <div class="col-sm-3">
+        </div>
+        <div class="col-sm-2">
+            <div style="width: 200px">
+
+                @using (Html.BeginForm("AddProfile", "Profile"))
+                {
+                    <fieldset>
+                        <div>
+                            <label for="Name">Name</label>
+                        </div>
+                        <div>
+                            <input name="Name" type="text" />
+                        </div>
+                        <div>
+                            <label for="City">City</label>
+                        </div>
+                        <div>
+                            <input name="City" type="text" />
+                        </div>
+                        <div>
+                            <label for="Email">E-mail</label>
+                        </div>
+                        <div>
+                            <input name="Email" type="email" />
+                        </div>
+                        <div>
+                            <label for="Email">Level</label>
+                        </div>
+                        <div>
+                            <select name="Level">
+                                <option>H</option>
+                                <option>E</option>
+                                <option>D</option>
+                                <option>C</option>
+                                <option>B</option>
+                                <option>A</option>
+                                <option>Rating</option>
+                            </select>
+                        </div>
+                        <div>
+                            <label for="Email">Phone</label>
+                        </div>
+                        <div>
+                            <input name="Phone" type="tel" />
+                        </div>
+                        <div>
+                            <label for="Email">Programme</label>
+                        </div>
+                        <div>
+                            <select name="Programme">
+                                <option>Lat.</option>
+                                <option>St.</option>
+                            </select>
+                        </div>
+                        <div style="display: inline-block">
+                            <div>
+                                <label for="Sex">Male</label>
+                                <input name="Sex" value="Male" type="radio" />
+                            </div>
+                            <div>
+                                <label for="Sex">Female</label>
+                                <input name="Sex" value="Female" type="radio" />
+                            </div>
+                        </div>
+                        <div>
+                            <input type="submit" value="Save" />
+                        </div>
+
+                    </fieldset>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+</>
